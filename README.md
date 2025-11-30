@@ -1,4 +1,3 @@
-# Type-Assist-For-Chrome
 # Yazım Asistanı (Type-Assist) - Chrome Eklentisi / Type-Assist-For-Chrome
 
 <p align="left"> 
@@ -25,6 +24,7 @@
     <img src="ex6.jpeg" alt="Type-Assist: Matematik Sembolleri Devamı" width="250" style="margin: 5px;"/>
     <img src="ex7.jpeg" alt="Type-Assist: Para Birimi Sembolleri Kategorisi" width="250" style="margin: 5px;"/>
     <img src="ex8.jpeg" alt="Type-Assist: Genel Semboller Kategorisi" width="250" style="margin: 5px;"/>
+    <img src="ex00.png" alt="Type-Assist: Eklenti Kısa Tanıtımı" width="250" style="margin: 5px;"/>
 </p>
 
 ### ✨ Tek Tıkla Erişilebilen Onlarca Sembol ve Özel Karakter (TR)
@@ -57,8 +57,6 @@ This extension provides great convenience when preparing technical documents, so
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/></a><a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github desktop" width="40" height="40"/></a>
 </p>
 
-💡 **Eklenecekler / To Be Added**: Chrome Extensions sayfasına eklenecek ve link readme. dosyasına eklenecek. Eğer Web sayfasına yüklenmeden kullanmak istiyorsanız gerekli konfigürasyon ayarları ile yerel bir şekilde kullanabilirsiniz.
-
-
+💡 **Eklenecekler / To Be Added**: Chrome Extensions sayfasına eklenecek ve link readme. dosyasına eklenecek
 
 ---
