@@ -85,12 +85,12 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         const allSymbols = getAllSymbols();
-        // Simple filter: check if symbol includes query (not very useful for symbols)
+        
         
         const filtered = symbolData.filter(cat => cat.category.toLowerCase().includes(query))
             .reduce((acc, curr) => [...acc, ...curr.items], []);
 
-        // Also include symbols that match directly (if any)
+
         const directMatches = allSymbols.filter(s => s.includes(query));
 
         const results = [...new Set([...filtered, ...directMatches])];
@@ -114,4 +114,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 });
 //eslem seni çok özledim
+
 
