@@ -27,7 +27,7 @@
     <img src="ex00.png" alt="Type-Assist: Eklenti Kısa Tanıtımı" width="250" style="margin: 5px;"/>
 </p>
 
-### ✨ Tek Tıkla Erişilebilen Onlarca Sembol ve Özel Karakter (TR)
+###  Tek Tıkla Erişilebilen Onlarca Sembol ve Özel Karakter (TR)
 
 Bu basit Chrome eklentisi, klavyenizde kolayca bulamadığınız veya yazmakta zorlandığınız tüm özel sembolleri ve karakterleri (**Tescil®, Telif Hakkı©, Oklar, Matematiksel Semboller, Para Birimleri** vb.) tek bir arayüzde toplar.
 
@@ -39,7 +39,7 @@ Bu eklenti, teknik belgeler, sosyal medya gönderileri ve sunumlar hazırlarken 
 
 ---
 
-### ✨ Dozens of Symbols and Special Characters Accessible with One Click (EN)
+###  Dozens of Symbols and Special Characters Accessible with One Click (EN)
 
 This simple Chrome extension gathers all special symbols and characters that you can't easily find or type on your keyboard (**Trademark®, Copyright©, Arrows, Mathematical Symbols, Currencies**, etc.) into a single interface.
 
