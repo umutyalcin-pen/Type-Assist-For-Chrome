@@ -19,13 +19,13 @@
     <img src="ekran-goruntuleri/ex00.png" alt="Type-Assist: Eklenti Kısa Tanıtımı" width="250" style="margin: 5px;"/>
 </p>
 
-###  Tek Tıkla Erişilebilen Onlarca Sembol ve Özel Karakter (TR)
+###  İstediğiniz sembol ve özel karakterlere kolaylıkla erişebilmeniz için tasarlanmış bir eklenti
 
-Bu basit Chrome eklentisi, klavyenizde kolayca bulamadığınız veya yazmakta zorlandığınız tüm özel sembolleri ve karakterleri (**Tescil®, Telif Hakkı©, Oklar, Matematiksel Semboller, Para Birimleri** vb.) tek bir arayüzde toplar.
+Bu basit Chrome eklentisi, klavyenizde kolayca bulamadığınız veya yazmakta zorlandığınız tüm özel sembolleri ve karakterleri tek bir arayüzde toplar.
 
-* **Anında Kopyalama:** Seçtiğiniz sembolü tek bir tıklama ile panoya kopyalayın.
-* **Geniş Kütüphane:** Onlarca yaygın ve nadir kullanılan özel karakter kütüphanesine erişim.
-* **Zaman Tasarrufu:** İnternette arama yapmaya veya klavye kombinasyonlarını hatırlamaya gerek kalmaz.
+ Seçtiğiniz sembolü tek bir tıklama ile panoya kopyalayın.
+ Onlarca yaygın ve nadir kullanılan özel karakter kütüphanesine erişim.
+ İnternette arama yapmaya veya klavye kombinasyonlarını hatırlamaya gerek kalmaz.
 
 Bu eklenti, teknik belgeler, sosyal medya gönderileri ve sunumlar hazırlarken büyük bir kolaylık sağlar.
 
