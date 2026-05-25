@@ -154,8 +154,8 @@ header {
 .symbol-item:hover {
   transform: translateY(-2px);
   box-shadow: var(--shadow-md);
-  border-color: var(--primary-color);
-  color: var(--primary-color);
+  border-color: var(--text-color);
+  color: var(--text-color);
 }
 
 .symbol-item:active {
