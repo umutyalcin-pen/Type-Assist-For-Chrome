@@ -31,13 +31,13 @@ Bu eklenti, teknik belgeler, sosyal medya gönderileri ve sunumlar hazırlarken 
 
 ---
 
-###  Dozens of Symbols and Special Characters Accessible with One Click (EN)
+### An extension designed for easy access to any symbol and special character you need
 
-This simple Chrome extension gathers all special symbols and characters that you can't easily find or type on your keyboard (**Trademark®, Copyright©, Arrows, Mathematical Symbols, Currencies**, etc.) into a single interface.
+This simple Chrome extension gathers all special symbols and characters that you can't easily find or type on your keyboard into a single interface.
 
-* **Instant Copy:** Copy the selected symbol to the clipboard with a single click.
-* **Extensive Library:** Access a library of dozens of common and rare special characters.
-* **Time Saving:** No need to search the internet or remember complex keyboard shortcuts.
+Copy your chosen symbol to the clipboard with a single click.
+Access a library of dozens of common and rare special characters.
+No need to search the internet or remember complex keyboard shortcuts.
 
 This extension provides great convenience when preparing technical documents, social media posts, and presentations.
 
