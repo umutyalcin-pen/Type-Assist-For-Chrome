@@ -113,6 +113,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 2000);
     }
 });
-//eslem seni çok özledim
+
 
 
