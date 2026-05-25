@@ -17,14 +17,14 @@
 ## Eklenti ile alakalı birkaç ekran görüntüsü / A few screenshots related to the extension
 
 <p align="center">
-    <img src="ex2.jpeg" alt="Type-Assist: Klavye Sembolleri (Bölüm 1)" width="250" style="margin: 5px;"/>
-    <img src="ex3.jpeg" alt="Type-Assist: Klavye Sembolleri (Bölüm 2)" width="250" style="margin: 5px;"/>
-    <img src="ex4.jpeg" alt="Type-Assist: Oklar Sembolleri Kategorisi" width="250" style="margin: 5px;"/>
-    <img src="ex5.jpeg" alt="Type-Assist: Matematik Sembolleri Kategorisi" width="250" style="margin: 5px;"/>
-    <img src="ex6.jpeg" alt="Type-Assist: Matematik Sembolleri Devamı" width="250" style="margin: 5px;"/>
-    <img src="ex7.jpeg" alt="Type-Assist: Para Birimi Sembolleri Kategorisi" width="250" style="margin: 5px;"/>
-    <img src="ex8.jpeg" alt="Type-Assist: Genel Semboller Kategorisi" width="250" style="margin: 5px;"/>
-    <img src="ex00.png" alt="Type-Assist: Eklenti Kısa Tanıtımı" width="250" style="margin: 5px;"/>
+    <img src="ekran-goruntuleri/ex2.jpeg" alt="Type-Assist: Klavye Sembolleri (Bölüm 1)" width="250" style="margin: 5px;"/>
+    <img src="ekran-goruntuleri/ex3.jpeg" alt="Type-Assist: Klavye Sembolleri (Bölüm 2)" width="250" style="margin: 5px;"/>
+    <img src="ekran-goruntuleri/ex4.jpeg" alt="Type-Assist: Oklar Sembolleri Kategorisi" width="250" style="margin: 5px;"/>
+    <img src="ekran-goruntuleri/ex5.jpeg" alt="Type-Assist: Matematik Sembolleri Kategorisi" width="250" style="margin: 5px;"/>
+    <img src="ekran-goruntuleri/ex6.jpeg" alt="Type-Assist: Matematik Sembolleri Devamı" width="250" style="margin: 5px;"/>
+    <img src="ekran-goruntuleri/ex7.jpeg" alt="Type-Assist: Para Birimi Sembolleri Kategorisi" width="250" style="margin: 5px;"/>
+    <img src="ekran-goruntuleri/ex8.jpeg" alt="Type-Assist: Genel Semboller Kategorisi" width="250" style="margin: 5px;"/>
+    <img src="ekran-goruntuleri/ex00.png" alt="Type-Assist: Eklenti Kısa Tanıtımı" width="250" style="margin: 5px;"/>
 </p>
 
 ###  Tek Tıkla Erişilebilen Onlarca Sembol ve Özel Karakter (TR)
@@ -51,12 +51,12 @@ This extension provides great convenience when preparing technical documents, so
 
 ---
 
-### 💻 Proje Teknolojileri: / Project Technologies:
+### Proje Teknolojileri: / Project Technologies:
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/></a><a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github desktop" width="40" height="40"/></a>
 </p>
 
-💡 **Eklenecekler / To Be Added**: Chrome Extensions sayfasına eklenecek ve link readme. dosyasına eklenecek
+**Eklenecekler / To Be Added**: Chrome Extensions sayfasına eklenecek ve link readme. dosyasına eklenecek
 
 ---
