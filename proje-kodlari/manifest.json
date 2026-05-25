@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Yazım Asistanı",
   "version": "1.0",
-  "description": "Klavyede bulunmayan özel karakterleri ve sembolleri kolayca kopyalayın. Hem zamandan hem işlevsel olarak avantaj sağlayın.",
+  "description": "Özel karakterleri ve sembolleri kolayca kopyalayın. Projelernizde kendinize kolaylık sağlayın.",
   "permissions": [
     "clipboardWrite"
   ],
